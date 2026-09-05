@@ -7,6 +7,9 @@ A modern and responsive e-commerce website specialized in **clothing and accesso
 **Mini Store** is an e-commerce website that showcases a variety of clothing and accessories. Users can browse products, explore different categories, view product details, and easily navigate through the store.
 
 The website features a clean, modern, and elegant interface with a focus on usability and responsive design.
+## 🌐 Live Demo
+
+[View Mini Store Live](https://JanaCodes-Star.github.io/Mini-Store/)
 
 ## ✨ Features
 
